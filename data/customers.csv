@@ -1,0 +1,154 @@
+customer_id,customer_name,email,country
+12415,Customer 12415,customer12415@example.com,Australia
+12452,Customer 12452,customer12452@example.com,Switzerland
+12522,Customer 12522,customer12522@example.com,Germany
+12527,Customer 12527,customer12527@example.com,Germany
+12612,Customer 12612,customer12612@example.com,Germany
+12615,Customer 12615,customer12615@example.com,France
+12691,Customer 12691,customer12691@example.com,France
+12701,Customer 12701,customer12701@example.com,Germany
+12723,Customer 12723,customer12723@example.com,France
+12739,Customer 12739,customer12739@example.com,United Arab Emirates
+12756,Customer 12756,customer12756@example.com,Japan
+12844,Customer 12844,customer12844@example.com,United Kingdom
+12893,Customer 12893,customer12893@example.com,United Kingdom
+12920,Customer 12920,,United Kingdom
+12935,Customer 12935,customer12935@example.com,United Kingdom
+13001,Customer 13001,customer13001@example.com,United Kingdom
+13006,Customer 13006,customer13006@example.com,UK
+13046,Customer 13046,customer13046@example.com,United Kingdom
+13225,Customer 13225,customer13225@example.com,United Kingdom
+13238,Customer 13238,customer13238@example.com,United Kingdom
+13244,Customer 13244,customer13244@example.com,United Kingdom
+13340,Customer 13340,customer13340@example.com,United Kingdom
+13352,Customer 13352,customer13352@example.com,United Kingdom
+13389,Customer 13389,,United Kingdom
+13426,Customer 13426,customer13426@example.com,United Kingdom
+13460,Customer 13460,customer13460@example.com,United Kingdom
+13519,Customer 13519,customer13519@example.com,United Kingdom
+13527,Customer 13527,customer13527@example.com,United Kingdom
+13571,Customer 13571,customer13571@example.com,United Kingdom
+13589,Customer 13589,customer13589@example.com,United Kingdom
+13596,CUSTOMER 13596,customer13596@example.com,United Kingdom
+13602,Customer 13602,customer13602@example.com,United Kingdom
+13629,Customer 13629,customer13629@example.com,United Kingdom
+13756,Customer 13756,customer13756@example.com,United Kingdom
+13845,Customer 13845,customer13845@example.com,United Kingdom
+13860,Customer 13860,customer13860@example.com,United Kingdom
+13894,Customer 13894,customer13894@example.com,United Kingdom
+13917,Customer 13917,customer13917example.com,United Kingdom
+13927,Customer 13927,customer13927@example.com,United Kingdom
+13993,Customer 13993,customer13993@example.com,United Kingdom
+14093,Customer 14093,customer14093@example.com,United Kingdom
+14157,Customer 14157,customer14157@example.com,United Kingdom
+14226,Customer 14226,customer14226@example.com,United Kingdom
+14229,Customer 14229,customer14229@example.com,United Kingdom
+14243,Customer 14243,customer14243@example.com,United Kingdom
+14257,Customer 14257,customer14257@example.com,United Kingdom
+14286,Customer 14286,customer14286@example.com,United Kingdom
+14315,Customer 14315,customer14315@example.com,United Kingdom
+14390,Customer 14390,customer14390@example.com,United Kingdom
+14422,Customer 14422,customer14422@example.com,United Kingdom
+14432,Customer 14432,customer14432@example.com,United Kingdom
+14488,Customer 14488,customer14488@example.com,United Kingdom
+14525,Customer 14525,customer14525@example.com,United Kingdom
+14547,Customer 14547,customer14547@example.com,United Kingdom
+14557,Customer 14557,customer14557@example.com,United Kingdom
+14565,Customer 14565,customer14565@example.com,United Kingdom
+14597,Customer 14597,customer14597@example.com,United Kingdom
+14608,Customer 14608,customer14608@example.com,United Kingdom
+14646,Customer 14646,customer14646@example.com,Netherlands
+14675,Customer 14675,customer14675@example.com,United Kingdom
+14796,Customer 14796,customer14796@example.com,United Kingdom
+14824,Customer 14824,customer14824@example.com,United Kingdom
+14860,Customer 14860,customer14860@example.com,United Kingdom
+14915,Customer 14915,customer14915@example.com,United Kingdom
+14963,Customer 14963,customer14963@example.com,United Kingdom
+14975,Customer 14975,customer14975@example.com,United Kingdom
+14995,Customer 14995,customer14995@example.com,United Kingdom
+14997,Customer 14997,customer14997@example.com,United Kingdom
+15005,Customer 15005,customer15005@example.com,United Kingdom
+15043,Customer 15043,customer15043@example.com,United Kingdom
+15048,Customer 15048,customer15048@example.com,United Kingdom
+15068,Customer 15068,customer15068@example.com,United Kingdom
+15181,Customer 15181,customer15181@example.com,United Kingdom
+15184,Customer 15184,customer15184@example.com,united kingdom
+15197,Customer 15197,customer15197@example.com,United Kingdom
+15315,Customer 15315,customer15315@example.com,United Kingdom
+15329,Customer 15329,customer15329@example.com,
+15344,Customer 15344,customer15344@example.com,United Kingdom
+15394,Customer 15394,customer15394@example.com,United Kingdom
+15433,Customer 15433,customer15433@example.com,United Kingdom
+15489,Customer 15489,customer15489@example.com,United Kingdom
+15504,Customer 15504,customer15504@example.com,United Kingdom
+15651,Customer 15651,customer15651@example.com,United Kingdom
+15694,Customer 15694,customer15694@example.com,United Kingdom
+15696,Customer 15696,customer15696@example.com,United Kingdom
+15730,Customer 15730,customer15730@example.com,United Kingdom
+15758,Customer 15758,customer15758@example.com,United Kingdom
+15835,Customer 15835,customer15835@example.com,United Kingdom
+15853,Customer 15853,customer15853@example.com,United Kingdom
+15874,Customer 15874,customer15874@example.com,United Kingdom
+15939,Customer 15939,customer15939@example.com,United Kingdom
+15987,Customer 15987,customer15987@example.com,United Kingdom
+16036,Customer 16036,customer16036@example.com,United Kingdom
+16108,Customer 16108,customer16108@example.com,United Kingdom
+16191,Customer 16191,customer16191@example.com,United Kingdom
+16201,Customer 16201,customer16201@example.com,United Kingdom
+16211,Customer 16211,customer16211@example.com,United Kingdom
+16235,Customer 16235,customer16235@example.com,United Kingdom
+16242,Customer 16242,customer16242@example.com,United Kingdom
+16281,Customer 16281,customer16281@example.com,United Kingdom
+16293,Customer 16293,customer16293@example.com,United Kingdom
+16316,Customer 16316,customer16316@example.com,United Kingdom
+16333,Customer 16333,customer16333@example.com,United Kingdom
+16462,Customer 16462,customer16462@example.com,United Kingdom
+16488,Customer 16488,customer16488@example.com,United Kingdom
+16491,Customer 16491,customer16491@example.com,United Kingdom
+16542,Customer 16542,customer16542@example.com,United Kingdom
+16594,Customer 16594,customer16594@example.com,United Kingdom
+16595,Customer 16595,customer16595@example.com,United Kingdom
+16667,Customer 16667,customer16667@example.com,United Kingdom
+16676,Customer 16676,customer16676@example.com,United Kingdom
+16719,Customer 16719,customer16719@example.com,United Kingdom
+16753,Customer 16753,customer16753@example.com,United Kingdom
+16791,Customer 16791,customer16791@example.com,United Kingdom
+16830,Customer 16830,customer16830@example.com,United Kingdom
+16861,Customer 16861,customer16861@example.com,United Kingdom
+16904,Customer 16904,customer16904@example.com,United Kingdom
+16929,CUSTOMER 16929,customer16929@example.com,United Kingdom
+16985,Customer 16985,customer16985@example.com,United Kingdom
+17001,Customer 17001,customer17001@example.com,United Kingdom
+17002,Customer 17002,customer17002@example.com,United Kingdom
+17052,Customer 17052,customer17052@example.com,United Kingdom
+17086,Customer 17086,customer17086@example.com,United Kingdom
+17111,Customer 17111,customer17111@example.com,United Kingdom
+17131,Customer 17131,customer17131@example.com,United Kingdom
+17163,Customer 17163,customer17163@example.com,United Kingdom
+17229,Customer 17229,customer17229@example.com,United Kingdom
+17313,Customer 17313,customer17313@example.com,United Kingdom
+17384,Customer 17384,customer17384@example.com,United Kingdom
+17386,Customer 17386,customer17386@example.com,United Kingdom
+17425,Customer 17425,customer17425@example.com,United Kingdom
+17427,Customer 17427,customer17427@example.com,United Kingdom
+17430,Customer 17430,customer17430@example.com,United Kingdom
+17451,Customer 17451,customer17451@example.com,United Kingdom
+17506,Customer 17506,customer17506@example.com,United Kingdom
+17509,Customer 17509,customer17509@example.com,United Kingdom
+17512,Customer 17512,customer17512@example.com,United Kingdom
+17513,Customer 17513,customer17513@example.com,United Kingdom
+17515,Customer 17515,customer17515@example.com,United Kingdom
+17666,Customer 17666,customer17666@example.com,United Kingdom
+17668,Customer 17668,customer17668@example.com,United Kingdom
+17705,Customer 17705,customer17705@example.com,United Kingdom
+17754,Customer 17754,customer17754@example.com,United Kingdom
+17852,Customer 17852,customer17852@example.com, United Kingdom 
+18017,Customer 18017,customer18017@example.com,United Kingdom
+18069,Customer 18069,customer18069@example.com,United Kingdom
+18093,Customer 18093,customer18093@example.com,United Kingdom
+18109,Customer 18109,customer18109@example.com,United Kingdom
+18223,Customer 18223,customer18223@example.com,United Kingdom
+18235,Customer 18235,customer18235@example.com,United Kingdom
+17513,CUSTOMER 17513,customer17513@example.com,United Kingdom
+15651,Customer 15651,customer15651@example.com,United Kingdom
+17506,Customer 17506,customer17506@example.com,United Kingdom

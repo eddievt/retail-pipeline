@@ -1,0 +1,26 @@
+question,rank,label,value
+revenue_by_country,1,United Kingdom,123608.06
+revenue_by_country,2,Netherlands,102217.43
+revenue_by_country,3,Australia,28711.27
+revenue_by_country,4,France,2248.93
+revenue_by_country,5,Germany,1308.38
+revenue_by_country,6,United Arab Emirates,931.74
+revenue_by_country,7,Switzerland,343.77
+revenue_by_country,8,Unknown,290.56
+revenue_by_country,9,Japan,112.08
+top_10_products_by_revenue,1,23084 - RABBIT NIGHT LIGHT,9002.24
+top_10_products_by_revenue,2,21915 - RED HARMONICA IN BOX,6622.5
+top_10_products_by_revenue,3,22086 - PAPER CHAIN KIT 50'S CHRISTMAS,5923.6
+top_10_products_by_revenue,4,85099B - JUMBO BAG RED RETROSPOT,4020.64
+top_10_products_by_revenue,5,22423 - REGENCY CAKESTAND 3 TIER,2626.5
+top_10_products_by_revenue,6,21891 - TRADITIONAL WOODEN SKIPPING ROPE,2354.8
+top_10_products_by_revenue,7,22629 - SPACEBOY LUNCH BOX,2109.9
+top_10_products_by_revenue,8,22492 - MINI PAINT SET VINTAGE,2012.4
+top_10_products_by_revenue,9,22630 - DOLLY GIRL LUNCH BOX,1985.1
+top_10_products_by_revenue,10,85123A - WHITE HANGING HEART T-LIGHT HOLDER,1911.6
+top_5_customers_by_revenue,1,14646 - Customer 14646,102217.43
+top_5_customers_by_revenue,2,12415 - Customer 12415,28711.27
+top_5_customers_by_revenue,3,16333 - Customer 16333,12502.4
+top_5_customers_by_revenue,4,17509 - Customer 17509,5978.64
+top_5_customers_by_revenue,5,14547 - Customer 14547,3492.15
+records_failing_dq_checks,1,Records that failed one or more checks,269

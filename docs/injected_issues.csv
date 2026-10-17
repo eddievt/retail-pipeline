@@ -1,0 +1,18 @@
+table,issue,count,ids
+orders,invalid or missing order_date,6,"574898-24, 572314-19, 579002-40, 572517-20, 577038-30, 565218-28"
+orders,customer_id not in customers table,5,"575895-74, 578921-96, 571743-24, 566199-8, 567280-31"
+orders,product_id not in products table,5,"572858-27, 577698-19, 569650-6, 568238-21, 576394-2"
+orders,product_id with spaces/lowercase (fixable),5,"570225-75, 565994-10, 575965-23, 578255-82, 569241-3"
+products,price is zero,2,"20969, 22806"
+products,price is negative,1,22277
+products,price is missing,1,22446
+products,product_name in lowercase,3,"22904, 21481, 21181"
+products,category with spaces/lowercase,3,"21822, 82482, 85174"
+products,exact duplicate row,2,"23418, 23256"
+customers,country spelled inconsistently,3,"15184, 13006, 17852"
+customers,country is missing,1,15329
+customers,customer_name in uppercase,2,"16929, 13596"
+customers,email is missing,2,"13389, 12920"
+customers,email has no @,1,13917
+customers,duplicate that differs only in formatting,1,17513
+customers,exact duplicate row,2,"15651, 17506"
